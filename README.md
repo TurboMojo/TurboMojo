@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating interesting new mechanics and concepts for game design.
 - 🌱 I’m currently learning Unity Editor extension programming, Unity ShaderGraph, DOTS, Blender shaders
 - 💞️ I’m looking to collaborate on games and plugins for Unity and Godot.
-- 📫 You can reach me at mr.jon.ward@gmail.com
+- 📫 You can reach me at jon@turbomojo.games
 - 😄 Pronouns: He/Him/His
 
 <!---
